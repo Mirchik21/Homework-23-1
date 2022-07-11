@@ -1,0 +1,15 @@
+C:\classwork\Homework-23-1\Homework-23-1\bin\Debug\net6.0\Homework-23-1.exe
+C:\classwork\Homework-23-1\Homework-23-1\bin\Debug\net6.0\Homework-23-1.deps.json
+C:\classwork\Homework-23-1\Homework-23-1\bin\Debug\net6.0\Homework-23-1.runtimeconfig.json
+C:\classwork\Homework-23-1\Homework-23-1\bin\Debug\net6.0\Homework-23-1.dll
+C:\classwork\Homework-23-1\Homework-23-1\bin\Debug\net6.0\Homework-23-1.pdb
+C:\classwork\Homework-23-1\Homework-23-1\obj\Debug\net6.0\Homework-23-1.csproj.AssemblyReference.cache
+C:\classwork\Homework-23-1\Homework-23-1\obj\Debug\net6.0\Homework-23-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\classwork\Homework-23-1\Homework-23-1\obj\Debug\net6.0\Homework-23-1.AssemblyInfoInputs.cache
+C:\classwork\Homework-23-1\Homework-23-1\obj\Debug\net6.0\Homework-23-1.AssemblyInfo.cs
+C:\classwork\Homework-23-1\Homework-23-1\obj\Debug\net6.0\Homework-23-1.csproj.CoreCompileInputs.cache
+C:\classwork\Homework-23-1\Homework-23-1\obj\Debug\net6.0\Homework-23-1.dll
+C:\classwork\Homework-23-1\Homework-23-1\obj\Debug\net6.0\refint\Homework-23-1.dll
+C:\classwork\Homework-23-1\Homework-23-1\obj\Debug\net6.0\Homework-23-1.pdb
+C:\classwork\Homework-23-1\Homework-23-1\obj\Debug\net6.0\Homework-23-1.genruntimeconfig.cache
+C:\classwork\Homework-23-1\Homework-23-1\obj\Debug\net6.0\ref\Homework-23-1.dll
